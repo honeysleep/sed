@@ -30,6 +30,7 @@ data_dir/
 
 Each annotations CSV contains columns: `Event_Name`, `Start_Time`, `Duration`.
 Target events: `snore`, `hypopnea`, `obstructive apnea`.
+The dataset is available at [Zenodo](https://zenodo.org/records/14096541).
 
 ## Usage
 
