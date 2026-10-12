@@ -111,3 +111,22 @@ The model is evaluated with:
 - **Segment-based F1** (sed_eval, 1s segments)
 - **PSDS**
 
+## Citation
+```
+@article{park2026,
+  author  = {Park, F. C. and Kim, C.},
+  title   = {End-to-End Sleep Sound Event Detection from Ambient Audio via Adaptive Line Enhancer Confidence Fusion},
+  journal = {IEEE Transactions on Audio, Speech and Language Processing},
+  year    = {2026}
+}
+```
+```
+@inproceedings{park2026_interspeech,
+  author    = {Park, C. and Kim, C.},
+  title     = {Sleep Sound Event Detection Powered by Learnable Multi-Resolution Adaptive Line Enhancer},
+  booktitle = {Proceedings of Interspeech 2026},
+  pages     = {2780--2789},
+  year      = {2026},
+  doi       = {10.21437/Interspeech.2026-130}
+}
+```
